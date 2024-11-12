@@ -1,0 +1,39 @@
+# Virtual environments
+venv/
+.env/
+.conda/
+
+# Python compiled files
+__pycache__/
+*.pyc
+*.pyo
+
+# Data and model files
+data/
+models/
+*.h5
+*.pkl
+*.joblib
+*.csv
+*.tsv
+*.jsonl
+
+# Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# IDE configurations
+.vscode/
+.idea/
+
+# Environment variables and secrets
+.env
+
+# Logs and temporary files
+*.log
+*.tmp
+*.cache
+*.bak
+
+# macOS and Windows OS files
+.DS_Store
+thumbs.db
